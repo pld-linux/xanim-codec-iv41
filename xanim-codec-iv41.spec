@@ -1,5 +1,5 @@
 Summary:	Indeo 4.1 codec for XAnim
-Summary(pl.UTF-8):   Kodek Indeo 4.1 dla XAnima
+Summary(pl.UTF-8):	Kodek Indeo 4.1 dla XAnima
 Name:		xanim-codec-iv41
 Version:	1.1
 Release:	1
