@@ -1,5 +1,5 @@
 Summary:	Indeo 4.1 codec for XAnim
-Summary(pl):	Kodek Indeo 4.1 dla XAnima
+Summary(pl.UTF-8):   Kodek Indeo 4.1 dla XAnima
 Name:		xanim-codec-iv41
 Version:	1.1
 Release:	1
@@ -23,7 +23,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Intel Indeo 4.1 codec decompression DLL for XAnim.
 
-%description -l pl
+%description -l pl.UTF-8
 Biblioteka do dekompresji kodeka Intel Indeo 4.1 dla XAnima.
 
 %prep
